@@ -8,7 +8,7 @@ const Header = () => {
                 <h1 className="text-lg font-bold text-gray-800">Bom dia, Alice!!!</h1>
                 <p> Já olhou suas tarefas?<br/>Vamos adicionou alguma<br />nova tarefa hoje?</p>
             </div>
-            <img className="mix-blend-multiply  shrink-0" src="src/assets/image 7.png" alt="" />
+            <img className="mix-blend-multiply  shrink-0" src="public/image 7.png" alt="" />
         </div>
         </>
 
